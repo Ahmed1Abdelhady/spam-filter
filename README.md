@@ -1,2 +1,2 @@
-# 6-spam-filter
+# spam-filter
 in this project, i used Naive Bayes algorithm to create a spam filter 
